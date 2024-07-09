@@ -1,0 +1,26 @@
+{
+  "users" : [
+    {
+      "firstName" : "Test",
+      "lasName"   : "Testing",
+      "subjectId" : 1,
+      "id"        : 1
+    },
+    {
+      "firstName" : "Zulma",
+      "lasName"   : "Testing",
+      "subjectId" : 2,
+      "id"        : 2
+    }
+  ],
+  "subjects"  : [
+    {
+      "name"      : "Automation",
+      "id"        : 1
+    },
+    {
+      "name"      : "DevOps",
+      "id"        : 2
+    }
+  ]
+}
