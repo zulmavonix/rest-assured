@@ -5,5 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
+  "users": [
+    { "firsName": "zulma","lastName": "irzamsyah" }
+  ],
   "profile": { "name": "typicode" }
 }
